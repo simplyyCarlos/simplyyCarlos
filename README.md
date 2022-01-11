@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking to help with **Any projects you think I can help you with and that can make me improve.**
 
-- 📫 Let Pingu Land become you're new home https://discord.gg/xmuszk8U55
+- 📫 Let Pingu Land become you're new home [Pingu Land 🐧](https://discord.gg/xmuszk8U55)
 
 - 📫 You can reach me on Discord **simplyy#7546**
 
