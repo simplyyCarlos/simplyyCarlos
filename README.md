@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 🤝 I’m looking for help with **Any projects you think I can help you with.**
+- 🤝 I’m looking to help with **Any projects you think I can help you with and that can make me improve.**
 
 - 📫 You can reach me on Discord **simplyy#7546**
 
