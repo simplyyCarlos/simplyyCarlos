@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying at [Université Claude Bernard Lyon 1](https://iut.univ-lyon1.fr)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Java**
 
 - 🤝 I’m looking to help with **Any projects you think I can help you with and that can make me improve.**
 
