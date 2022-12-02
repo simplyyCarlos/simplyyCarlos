@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm simplyy</h1>
+<h1 align="center">Hi 👋, I'm Jules</h1>
 <h3 align="center">A passionate Student looking to make his way through IT and finally become Full Stack to catch them all.</h3>
 
 - 🔭 I’m currently studying at [Université Claude Bernard Lyon 1](https://iut.univ-lyon1.fr)
